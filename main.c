@@ -1,1 +1,0 @@
-#include <./estruturas/lista.c>
